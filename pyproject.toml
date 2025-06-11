@@ -5,3 +5,4 @@ description = "Build a Claude Code–like CLI coding agent from scratch."
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# clarify the control flow
